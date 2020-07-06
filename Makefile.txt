@@ -1,0 +1,11 @@
+make: SwimMill.o Fish.o Pellet.o
+
+SwimMill.o: SwimMill.c
+	gcc -o SwimMill SwimMill.c 
+	
+Fish.o: Fish.c
+	gcc -o Fish Fish.c 
+	
+Pellet.o: Pellet.c
+	gcc -o Pellet Pellet.c 
+	

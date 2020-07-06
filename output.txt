@@ -1,0 +1,97 @@
+
+Process ID of Pellet: 26980
+Coordinates of Pellet:(9,1)
+Pellet was missed!
+
+Process ID of Pellet: 26977
+Coordinates of Pellet:(9,3)
+Pellet was eaten!
+
+Process ID of Pellet: 26999
+Coordinates of Pellet:(9,1)
+Pellet was missed!
+
+Process ID of Pellet: 26981
+Coordinates of Pellet:(9,9)
+Pellet was missed!
+
+Process ID of Pellet: 27010
+Coordinates of Pellet:
+row: 9, col: 4
+Pellet was missed!
+
+Process ID of Pellet: 27002
+Coordinates of Pellet:(9,7)
+Pellet was missed!
+
+Process ID of Pellet: 26979
+Coordinates of Pellet:(9,3)
+Pellet was eaten!
+
+Process ID of Pellet: 27012
+Coordinates of Pellet:(9,5)
+Pellet was eaten!
+
+Process ID of Pellet: 27021
+Coordinates of Pellet:(9,8)
+Pellet was missed!
+
+Process ID of Pellet: 27014
+Coordinates of Pellet:(9,4)
+Pellet was missed!
+
+Process ID of Pellet: 27026
+Coordinates of Pellet:(9,6)
+Pellet was eaten!
+
+Process ID of Pellet: 27032
+Coordinates of Pellet:(9,3)
+Pellet was missed!
+
+Process ID of Pellet: 27017
+Coordinates of Pellet:(9,6)
+Pellet was eaten!
+
+Process ID of Pellet: 27016
+Coordinates of Pellet:(9,9)
+Pellet was missed!
+
+Process ID of Pellet: 27045
+Coordinates of Pellet:(9,4)
+Pellet was eaten!
+
+Process ID of Pellet: 27038
+Coordinates of Pellet:(9,0)
+Pellet was missed!
+
+Process ID of Pellet: 27031
+Coordinates of Pellet:(9,6)
+Pellet was missed!
+
+Process ID of Pellet: 27052
+Coordinates of Pellet:(9,4)
+Pellet was missed!
+
+Process ID of Pellet: 27050
+Coordinates of Pellet:(9,3)
+Pellet was missed!
+
+Process ID of Pellet: 27070
+Coordinates of Pellet:(9,3)
+Pellet was missed!
+
+Process ID of Pellet: 27046
+Coordinates of Pellet:(9,0)
+Pellet was missed!
+
+Process ID of Pellet: 27042
+Coordinates of Pellet:(9,4)
+Pellet was missed!
+
+Process ID of Pellet: 27060
+Coordinates of Pellet:(9,1)
+Pellet was missed!
+
+Process ID of Pellet: 27063
+Coordinates of Pellet:(9,7)
+Pellet was missed!
