@@ -176,7 +176,6 @@ void Interrupt()
 {
 	printf("Interupt on Fish!\n");
 	shmdt(mill); // Detach from shared memory
-	shmctl(shm_id, IPC_RMID, NULL); // Delete the shared memory
 	exit(0); // Exit the process
 }
 
@@ -184,7 +183,6 @@ void Terminate()
 {
 	printf("Termiate Fish!\n");
 	shmdt(mill); // Detach from shared memory
-	shmctl(shm_id, IPC_RMID, NULL); // Delete the shared memory by cmd IPC_RMID
 	exit(0);  // Exit the process
 }
 
