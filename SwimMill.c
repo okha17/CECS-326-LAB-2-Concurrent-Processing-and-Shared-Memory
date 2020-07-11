@@ -18,7 +18,7 @@ int shm_id; // int value the stores shared memory ID
 int main(int argc, char *argv[])
 {
 	signal(SIGINT, Interrupt); //Signal for interrupt 
-	
+	signal(SIGTERM< SIG_IGN);
 	// Generate unique key used for shared memory
 	key_t key = ftok("SwimMill.c", 'a');
 	// Shmget is used to return identifier for shared memory
@@ -126,11 +126,9 @@ void Interrupt()
 void Terminate()
 {
 	printf("\nEnd of SwimMill!\n");
-	kill(fish, SIGTERM); // Kill the child process
-	kill(pellet, SIGTERM); // Kill the child process
+	kill(0, SIGTERM);
 	shmdt(mill); // Detach from shared memory
 	shmctl(shm_id, IPC_RMID, NULL);  // Delete the shared memory
-	
 	exit(0); // Exit the program
 }
 
